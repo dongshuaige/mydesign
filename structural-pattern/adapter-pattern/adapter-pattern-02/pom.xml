@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.itstack</groupId>
+        <artifactId>adapter-pattern</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>adapter-pattern-02</artifactId>
+    <description>实战适配器模式:「从多个MQ消息体中，抽取指定字段值场景」,把不同类型的消息做统一的处
+        理，便于减少后续对MQ接收</description>
+    
+    <dependencies>
+        <dependency>
+            <groupId>org.itstack</groupId>
+            <artifactId>adapter-pattern-00</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+</project>

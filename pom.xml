@@ -11,6 +11,7 @@
     <modules>
         <module>six-principles</module>
         <module>creation-mode</module>
+        <module>structural-pattern</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
