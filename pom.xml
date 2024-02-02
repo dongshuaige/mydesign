@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>six-principles</module>
+        <module>creation-mode</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->

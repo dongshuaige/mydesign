@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.itstack</groupId>
+        <artifactId>creation-mode</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <packaging>pom</packaging>
+    <description>抽象工厂模式</description>
+    <modules>
+        <module>abstract-factory-mode-00</module>
+        <module>abstract-factory-mode-01</module>
+        <module>abstract-factory-mode-02</module>
+    </modules>
+    <artifactId>abstract-factory</artifactId>
+
+</project>
